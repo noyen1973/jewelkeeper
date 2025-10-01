@@ -1,14 +1,16 @@
-<img width="648" height="543" alt="Foenix IDE 2025-10-01 4_01_12 PM" src="https://github.com/user-attachments/assets/2b98dab4-70a4-4680-9679-d63aaa89fce4" />
+<img width="325" height="272" alt="title" src="https://github.com/user-attachments/assets/b8a1997b-5b14-474c-b6b4-7c67faef2cd7" />
+<img width="325" height="272" alt="level15" src="https://github.com/user-attachments/assets/8a106c63-9fcb-407a-bc1a-bf72246551c4" />
 
 Sobokan-style puzzle game for the Foenix F256 retro computer.
 
 More levels can be downloaded from https://www.sourcecode.se/sokoban/levels.php.
 To run Jewel Keeper with the new levels use the text filename as a parameter.
+Any levels larger than 20x15 tiles will be ignored.
+
 
 Example:
 
     /- jewelkeeper.pgz box.txt
 
-Any levels larger than 20x15 tiles will be ignored.
 
-<img width="648" height="543" alt="Foenix IDE 2025-10-01 4_01_32 PM" src="https://github.com/user-attachments/assets/4ca8bb1b-e703-4bdf-85d7-5e95953e0d4a" />
+<img width="324" height="272" alt="box" src="https://github.com/user-attachments/assets/d96dca0d-4a60-45cb-8032-10654a457d8e" />
